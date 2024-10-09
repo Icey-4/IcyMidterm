@@ -1,0 +1,5 @@
+The toon shader has the diff * 0.3 + 0.5 for the ramp. 0.5 +0.5 created too hash a shadow on the top of the capsule which made it look bad. 0.3 made for a much softer shadow and was a lot better looking.
+
+For the LUT I used a combo of HSL and Colour Balance adjustments. I lightened the image using the hsl while also shifting it to blue. The colour balance was used to boost the blue and reduce the amount of read in the image making for a nice wintery feel.
+
+I used a rim shader for the last part. I used it to add some dark blue parts to the ice floor which helps it feel more like ice and less like a blue cube. 
